@@ -2,7 +2,7 @@
 
 [paper link](https://arxiv.org/pdf/1312.6082.pdf)
 
-Please download the .ipynb file titled "---" and import it into Google Colab and run the notebook. The reproduction of the network on SVHN dataset has been tested and the results have been confirmed as correct.
+Please download the .ipynb file titled "SVHN_Classifier Random Cropping Latest.ipynb" and import it into Google Colab and run the notebook. The reproduction of the network on SVHN dataset has been tested and the results have been confirmed as correct.
 
 For the code used, we have taken reference from these 2 links:
 1. [Street View House Numbers Recognition Using ConvNets
